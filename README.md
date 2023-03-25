@@ -1,2 +1,1 @@
-# ping-pong
-ping pong
+1.py открываешь и всё
